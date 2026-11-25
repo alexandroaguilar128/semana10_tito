@@ -1,0 +1,121 @@
+texto,categoria
+¿Cómo solicito una beca?,becas
+¿Qué apoyos económicos ofrece la escuela?,becas
+¿Qué requisitos necesito para obtener una beca?,becas
+¿Cuándo puedo solicitar una beca?,becas
+¿Dónde puedo consultar las becas disponibles?,becas
+¿Qué tipos de becas ofrece la escuela?,becas
+¿Quién puede solicitar una beca?,becas
+¿Qué documentos necesito para pedir una beca?,becas
+¿Dónde entrego la solicitud de una beca?,becas
+¿Cuándo salen los resultados de las becas?,becas
+¿Cómo puedo saber si obtuve una beca?,becas
+¿Hay becas para estudiantes con buenas calificaciones?,becas
+¿Puedo solicitar una beca durante el semestre?,becas
+¿Dónde puedo obtener información sobre las becas?,becas
+¿Qué hago si tengo dudas sobre una beca?,becas
+¿A qué hora abre la biblioteca?,biblioteca
+¿Dónde se encuentra la biblioteca?,biblioteca
+¿Cuál es el horario de la biblioteca?,biblioteca
+¿Qué servicios ofrece la biblioteca?,biblioteca
+¿Puedo pedir libros prestados en la biblioteca?,biblioteca
+¿Cuánto tiempo puedo tener un libro prestado?,biblioteca
+¿Qué necesito para sacar un libro?,biblioteca
+¿Puedo estudiar dentro de la biblioteca?,biblioteca
+¿Hay computadoras disponibles en la biblioteca?,biblioteca
+¿Dónde puedo buscar un libro?,biblioteca
+¿Puedo renovar el préstamo de un libro?,biblioteca
+¿La biblioteca abre los sábados?,biblioteca
+¿Qué hago si pierdo un libro?,biblioteca
+¿Hay espacios para estudiar en la biblioteca?,biblioteca
+¿Dónde puedo consultar el catálogo de libros?,biblioteca
+¿Dónde pido una constancia?,control_escolar
+Necesito hacer un trámite escolar,control_escolar
+¿Qué documentos necesito para un trámite escolar?,control_escolar
+¿Dónde puedo realizar trámites de control escolar?,control_escolar
+¿Cuánto tiempo tarda un trámite escolar?,control_escolar
+¿Dónde puedo solicitar un certificado?,control_escolar
+¿Cómo puedo pedir una constancia de estudios?,control_escolar
+¿Qué necesito para obtener una constancia?,control_escolar
+¿Dónde puedo corregir mis datos escolares?,control_escolar
+¿Cómo puedo solicitar un documento escolar?,control_escolar
+¿A quién debo acudir para hacer un trámite?,control_escolar
+¿Qué trámites puedo realizar en control escolar?,control_escolar
+¿Dónde puedo preguntar sobre mis documentos?,control_escolar
+¿Puedo realizar un trámite si me falta un documento?,control_escolar
+¿Cómo puedo saber el estado de mi trámite?,control_escolar
+¿Dónde puedo pedir orientación?,orientacion
+Necesito apoyo con una decisión académica,orientacion
+¿Con quién puedo hablar si tengo dudas sobre mi carrera?,orientacion
+¿Dónde puedo recibir orientación académica?,orientacion
+Necesito ayuda para elegir mis materias,orientacion
+¿Quién puede orientarme sobre mis estudios?,orientacion
+¿Dónde puedo recibir ayuda para elegir una carrera?,orientacion
+¿Con quién puedo hablar sobre mi desempeño académico?,orientacion
+¿Qué hago si no sé qué carrera elegir?,orientacion
+¿Dónde puedo resolver mis dudas académicas?,orientacion
+¿Hay alguien que pueda orientarme sobre mis materias?,orientacion
+¿A quién puedo acudir si tengo problemas académicos?,orientacion
+¿Puedo recibir asesoría para tomar una decisión escolar?,orientacion
+¿Cómo puedo solicitar orientación académica?,orientacion
+¿Dónde puedo obtener información sobre las carreras?,orientacion
+¿Cuál es mi horario de clases?,horarios
+¿A qué hora abre control escolar?,horarios
+¿Dónde puedo consultar mi horario?,horarios
+¿Cómo puedo saber cuándo tengo clases?,horarios
+¿Dónde puedo ver los horarios de los grupos?,horarios
+¿A qué hora empieza mi primera clase?,horarios
+¿A qué hora termina mi última clase?,horarios
+¿Dónde puedo revisar el horario de mi grupo?,horarios
+¿Cómo puedo saber qué clase tengo mañana?,horarios
+¿Qué días tengo clases?,horarios
+¿Cómo puedo saber si cambió mi horario?,horarios
+¿Dónde publican los cambios de horario?,horarios
+¿A qué hora tengo mi siguiente clase?,horarios
+¿Dónde puedo consultar el horario escolar?,horarios
+¿Cómo puedo saber mi horario del semestre?,horarios
+¿Cuándo empiezan las inscripciones?,inscripciones
+¿Qué necesito para inscribirme?,inscripciones
+¿Dónde puedo realizar mi inscripción?,inscripciones
+¿Cuál es la fecha límite para inscribirme?,inscripciones
+¿Qué documentos necesito para la inscripción?,inscripciones
+¿Cómo puedo hacer mi inscripción?,inscripciones
+¿Dónde puedo consultar las fechas de inscripción?,inscripciones
+¿Quién puede ayudarme con mi inscripción?,inscripciones
+¿Qué pasa si no me inscribo a tiempo?,inscripciones
+¿Dónde entrego los documentos de inscripción?,inscripciones
+¿Puedo hacer mi inscripción en línea?,inscripciones
+¿Cuándo termina el periodo de inscripciones?,inscripciones
+¿Cómo sé si mi inscripción quedó registrada?,inscripciones
+¿Qué requisitos debo cumplir para inscribirme?,inscripciones
+¿Dónde puedo obtener información sobre las inscripciones?,inscripciones
+¿Dónde consulto mis calificaciones?,calificaciones
+Quiero aclarar una calificación,calificaciones
+¿Cómo puedo ver mis calificaciones?,calificaciones
+¿Cuándo se publican las calificaciones?,calificaciones
+¿Qué hago si hay un error en mis calificaciones?,calificaciones
+¿Cuál es la calificación mínima para aprobar?,calificaciones
+¿Dónde puedo revisar mis resultados académicos?,calificaciones
+¿Cómo puedo saber mis calificaciones del semestre?,calificaciones
+¿Quién puede ayudarme si tengo una calificación incorrecta?,calificaciones
+¿Cuándo puedo consultar mis calificaciones finales?,calificaciones
+¿Dónde aparecen mis calificaciones?,calificaciones
+¿Cómo puedo verificar mis calificaciones?,calificaciones
+¿Qué hago si no aparece una de mis calificaciones?,calificaciones
+¿Puedo consultar calificaciones de semestres anteriores?,calificaciones
+¿Cómo sé si aprobé una materia?,calificaciones
+¿Qué actividades hay esta semana?,actividades
+¿Hay clubes para estudiantes?,actividades
+¿Dónde puedo consultar las actividades escolares?,actividades
+¿Qué eventos habrá próximamente?,actividades
+¿Cómo puedo participar en las actividades estudiantiles?,actividades
+¿Qué actividades estudiantiles hay?,actividades
+¿Qué eventos escolares se realizarán este mes?,actividades
+¿Dónde puedo encontrar información sobre los clubes?,actividades
+¿Hay actividades deportivas para estudiantes?,actividades
+¿Cómo puedo inscribirme a un club escolar?,actividades
+¿Qué actividades extracurriculares ofrece la escuela?,actividades
+¿Dónde puedo ver los próximos eventos?,actividades
+¿Hay concursos para estudiantes?,actividades
+¿Cómo puedo participar en los eventos de la escuela?,actividades
+¿Qué actividades puedo realizar fuera de clases?,actividades
